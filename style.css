@@ -632,6 +632,11 @@ a {
   width: 45px;
 }
 
+#credits:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 #privacy {
   color: #fff;
   font-size: 14px;
@@ -645,6 +650,11 @@ a {
   width: 46px;
 }
 
+#privacy:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 #teams {
   color: #fff;
   font-size: 14px;
@@ -656,6 +666,11 @@ a {
   position: absolute;
   top: 0;
   width: 65px;
+}
+
+#teams:hover {
+  cursor: pointer;
+  text-decoration: underline;
 }
 
 .footer-divider {
